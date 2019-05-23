@@ -1,5 +1,5 @@
 {
-    "name": "odan/twig-assets",
+    "name": "Arkshine/twig-assets",
     "type": "library",
     "description": "Caching and compression for Twig assets (JavaScript and CSS).",
     "keywords": [
@@ -10,7 +10,7 @@
         "css",
         "minify"
     ],
-    "homepage": "https://github.com/odan/twig-assets",
+    "homepage": "https://github.com/Arkshine/twig-assets",
     "license": "MIT",
     "authors": [
         {
