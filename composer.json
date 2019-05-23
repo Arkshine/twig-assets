@@ -1,5 +1,5 @@
 {
-    "name": "Arkshine/twig-assets",
+    "name": "arkshine/twig-assets",
     "type": "library",
     "description": "Caching and compression for Twig assets (JavaScript and CSS).",
     "keywords": [
@@ -10,7 +10,7 @@
         "css",
         "minify"
     ],
-    "homepage": "https://github.com/Arkshine/twig-assets",
+    "homepage": "https://github.com/arkshine/twig-assets",
     "license": "MIT",
     "authors": [
         {
